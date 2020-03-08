@@ -1,4 +1,4 @@
-# CZOON'S .EMACS
+# Czoon's .emacs
 
 This is my personal configuration file for Emacs, which it's coded to install all by himself the required plugins from Melpa, along with **package** itself. 
 
